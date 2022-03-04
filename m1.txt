@@ -1,0 +1,1 @@
+arch -arm64 brew install pkg-config cairo pango jpeg giflib librsvg
